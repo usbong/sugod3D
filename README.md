@@ -4,10 +4,11 @@ Reusable computer instructions<br/>
 <b>Objective:</b> increase know-how in 3-Dimensional (3D) movement techniques
 
 ## 0. Recommended References
-0.1 [Usbong Pagong: SDL and OpenGL](https://github.com/usbong/pagong/)<br/>
+0.1 [Usbong Pagong: SDL and OpenGL](https://github.com/usbong/pagong/) (Personal Computer; Year 2021)<br/>
 0.2 Crash Bandicoot (SONY PlayStation 1; Year 1996)<br/>
+--> [パックマンワールド](https://www.youtube.com/watch?v=ykX76-YvFKE) (SONY PlayStation 1; Year 1999)<br/>
 --> スーパーマグネチックニュウニュウ (SEGA Dreamcast; Year 2000)<br/>
-0.3 Super Mario 3D Land (Nintendo 3DS; Year 2011)
+--> Super Mario 3D Land (Nintendo 3DS; Year 2011)
 
 ## 1. Application Execution
 TO-DO: -update: this
